@@ -1,0 +1,148 @@
+Sat Feb 14 14:41:02 EST 2015|Table 'mme30_bank1017.transaction' doesn't exist
+Sat Feb 14 14:41:02 EST 2015|SELECT * FROM transaction;
+Sat Feb 14 14:43:34 EST 2015|Table 'mme30_bank1017.transaction' doesn't exist
+Sat Feb 14 14:43:34 EST 2015|SELECT * FROM transaction;
+Sat Feb 14 14:50:43 EST 2015|Table 'mme30_bank1017.transaction' doesn't exist
+Sat Feb 14 14:50:43 EST 2015|SELECT * FROM transaction;
+Sat Feb 14 14:53:51 EST 2015|Table 'mme30_bank1017.transaction' doesn't exist
+Sat Feb 14 14:53:51 EST 2015|SELECT * FROM transaction;
+Sat Feb 14 15:32:14 EST 2015|Table 'mme30_bank1017.transaction' doesn't exist
+Sat Feb 14 15:32:14 EST 2015|INSERT INTO transaction (transactionID, accountID, amount, transactionDate, type, balance)  VALUES ('eb3c5426-9316-448d-b8f3-5af220f02e34', '321', 123.0, CURDATE(), 'checking', 333.0);
+Sat Feb 14 16:25:25 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:25 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:25 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:25 EST 2015|SELECT * FROM account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:26 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:26 EST 2015|SELECT * FROM account WHERE accountID = '2c508880-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:26 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:26 EST 2015|SELECT * FROM account WHERE accountID = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:26 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:26 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:26 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:26 EST 2015|SELECT * FROM account WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:27 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:27 EST 2015|SELECT * FROM account WHERE accountID = '7e4c5650-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:27 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:27 EST 2015|SELECT * FROM account WHERE accountID = '9baae1da-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:27 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:27 EST 2015|SELECT * FROM account WHERE accountID = 'b807e558-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:28 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:28 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:28 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:28 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:28 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:28 EST 2015|SELECT * FROM account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:25:28 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:25:28 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:32:08 EST 2015|Invalid pin was entered
+Sat Feb 14 16:32:08 EST 2015|For input string: ""
+Sat Feb 14 16:32:46 EST 2015|Invalid pin was entered
+Sat Feb 14 16:32:46 EST 2015|For input string: ""
+Sat Feb 14 16:33:31 EST 2015|Invalid pin was entered
+Sat Feb 14 16:33:31 EST 2015|For input string: ""
+Sat Feb 14 16:49:36 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:36 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:36 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:36 EST 2015|SELECT * FROM account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:36 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:36 EST 2015|SELECT * FROM account WHERE accountID = '2c508880-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:36 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:36 EST 2015|SELECT * FROM account WHERE accountID = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:37 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:37 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:37 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:37 EST 2015|SELECT * FROM account WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:37 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:37 EST 2015|SELECT * FROM account WHERE accountID = '7e4c5650-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:38 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:38 EST 2015|SELECT * FROM account WHERE accountID = '9baae1da-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:38 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:38 EST 2015|SELECT * FROM account WHERE accountID = 'b807e558-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:38 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:38 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:38 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:38 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:39 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:39 EST 2015|SELECT * FROM account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:49:39 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:49:39 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:56 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:56 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:56 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:56 EST 2015|SELECT * FROM account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:57 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:57 EST 2015|SELECT * FROM account WHERE accountID = '2c508880-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:57 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:57 EST 2015|SELECT * FROM account WHERE accountID = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:57 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:57 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:58 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:58 EST 2015|SELECT * FROM account WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:58 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:58 EST 2015|SELECT * FROM account WHERE accountID = '7e4c5650-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:58 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:58 EST 2015|SELECT * FROM account WHERE accountID = '9baae1da-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:59 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:59 EST 2015|SELECT * FROM account WHERE accountID = 'b807e558-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:51:59 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:51:59 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:52:00 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:52:00 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:52:00 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:52:00 EST 2015|SELECT * FROM account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:52:00 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:52:00 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:44 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:44 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:44 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:44 EST 2015|SELECT * FROM account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:45 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:45 EST 2015|SELECT * FROM account WHERE accountID = '2c508880-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:45 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:45 EST 2015|SELECT * FROM account WHERE accountID = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:45 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:45 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:45 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:45 EST 2015|SELECT * FROM account WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:46 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:46 EST 2015|SELECT * FROM account WHERE accountID = '7e4c5650-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:46 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:46 EST 2015|SELECT * FROM account WHERE accountID = '9baae1da-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:46 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:46 EST 2015|SELECT * FROM account WHERE accountID = 'b807e558-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:47 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:47 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:47 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:47 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:47 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:47 EST 2015|SELECT * FROM account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:54:48 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:54:48 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:17 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:17 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:17 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:17 EST 2015|SELECT * FROM account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:18 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:18 EST 2015|SELECT * FROM account WHERE accountID = '2c508880-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:18 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:18 EST 2015|SELECT * FROM account WHERE accountID = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:18 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:18 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:18 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:18 EST 2015|SELECT * FROM account WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:19 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:19 EST 2015|SELECT * FROM account WHERE accountID = '7e4c5650-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:19 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:19 EST 2015|SELECT * FROM account WHERE accountID = '9baae1da-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:19 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:19 EST 2015|SELECT * FROM account WHERE accountID = 'b807e558-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:19 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:20 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:20 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:20 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:20 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:20 EST 2015|SELECT * FROM account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 16:56:20 EST 2015|Operation not allowed after ResultSet closed
+Sat Feb 14 16:56:20 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Feb 14 19:59:53 EST 2015|Invalid pin was entered
+Sat Feb 14 19:59:54 EST 2015|For input string: "812g"

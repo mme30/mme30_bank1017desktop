@@ -1,0 +1,4 @@
+Wed Feb 11 12:18:56 EST 2015|Unknown column 'userID' in 'where clause'
+Wed Feb 11 12:18:56 EST 2015|SELECT * FROM customer Where userID = '01b9f986-5d41-11e3-94ef-97beef767f1d';
+Wed Feb 11 12:34:02 EST 2015|Unknown column 'userID' in 'where clause'
+Wed Feb 11 12:34:02 EST 2015|SELECT * FROM customer Where userID = '01b9f986-5d41-11e3-94ef-97beef767f1d';
